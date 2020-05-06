@@ -8,7 +8,7 @@ The project is done in R language using R studio.
 ### Requirements
 - R compiler
 - R studio (optional)
-- ** Libraries **
+- **Libraries**
   - stringr
   - stringi
   - tm
